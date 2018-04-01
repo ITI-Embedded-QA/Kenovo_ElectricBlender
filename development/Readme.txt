@@ -1,1 +1,3 @@
 this directory should contain ...
+CDD , Code , Any design artifacts,
+Unit/Integration levels test cases and reports

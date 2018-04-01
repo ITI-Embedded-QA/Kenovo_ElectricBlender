@@ -1,1 +1,3 @@
 this directory should contain ...
+Project plan / Config Management Plan/Test Plans/RTM,
+Issue Log / Schedule 
